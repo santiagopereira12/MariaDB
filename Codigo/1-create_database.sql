@@ -1,0 +1,3 @@
+-- CREACIÓN BASE DE DATOS.
+
+CREATE DATABASE transmilenio;
